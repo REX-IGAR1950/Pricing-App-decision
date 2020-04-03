@@ -5,7 +5,12 @@ In this project we work with data relationated to apps sold in APP Store.
 Set a price to a App. To set a price is one of the most important aspect of marketing mix. Thanks to data processing and the algorithms of machine learning we can go further in this important field and set a reference price with the competition (one pricing modality) 
 
 # Requirements
+
+- File
+
 "googleplaystore.csv"
+
+- Package
 
 os
 
